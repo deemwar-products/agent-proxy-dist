@@ -8,10 +8,7 @@ The application source is private; **only prebuilt, checksummed release artifact
 
 ```bash
 # npm (macOS / Linux / Windows)
-npm install -g @deemwar-products/agent-proxy
-
-# curl-pipe (macOS / Linux)
-curl -fsSL https://agentproxy.deemwar.com/install.sh | bash
+npm install -g @deemwario/agent-proxy
 
 # Homebrew (macOS)
 brew install deemwar-products/agent-proxy/agentproxy
